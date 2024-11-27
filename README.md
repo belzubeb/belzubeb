@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhamad Akhdan Najib!  
+## 🚀 Future CTO (InsyaAllah) | 📱 Mobile Dev in Progress 
 
-<!--
-**belzubeb/belzubeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer who loves turning **coffee** (and sometimes snacks) into **code**.  
+Specializing in **Java** and **Kotlin** for mobile apps, and occasionally battling with **HTML** on the web.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Up To:  
+- Learning, coding, and dreaming about **building a startup** (but only if my wallet agrees).  
+- Debugging life's code one bug at a time.  
+
+---
+
+## 🎯 Ultimate Goal:  
+To go from *"Hello World!"* to *"Hello CEO!"* 🚀  
+
+---
+
+## 📫 Find Me If You Can:  
+- [LinkedIn](https://www.linkedin.com/in/akhdannajib/)  
+- [Email](mailto:akhdannajiib@gmail.com)  
+
+---
+
+## Extras (because why not):  
+- **Favorite Exception:** `NullPointerException` (we've all been there).  
+- **Motto in Life:** "When in doubt, restart the IDE."  
+- **Current Status:** Thinking of making apps cooler than my fridge.  
