@@ -6,7 +6,8 @@ Specializing in **Java** and **Kotlin** for mobile apps, and occasionally battli
 
 ---
 
-## 🌱 What I'm Up To:  
+## 🌱 What I'm Up To:
+- Dreaming about learning **SwiftUI** (but first, I need a Mac).  
 - Learning, coding, and dreaming about **building a startup** (but only if my wallet agrees).  
 - Debugging life's code one bug at a time.  
 
