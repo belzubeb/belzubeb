@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Muhamad Akhdan Najib!  
-## 🚀 Future CTO (InsyaAllah) | 📱 Mobile Dev in Progress 
+## 🚀 Future CTO (InsyaAllah)
 
 I'm a student developer who loves turning **coffee** (and sometimes snacks) into **code**.  
 Specializing in **Java** and **Kotlin** for mobile apps, and occasionally battling with **HTML** on the web.  
