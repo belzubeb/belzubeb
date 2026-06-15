@@ -2,10 +2,9 @@
 
 I build software. I fix problems.
 
-
-
 ## Status
-Build. Break. Fix. Repeat.
+Working. Learning. Shipping.
 
 ## Contact
-LinkedIn / Email
+- LinkedIn: https://www.linkedin.com/in/akhdannajib/
+- Email: akhdannajiib@gmail.com
